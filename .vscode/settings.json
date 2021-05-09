@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/root/anaconda3/envs/deep_learning/bin/python",
+    "jupyter.jupyterServerType": "remote"
+}
